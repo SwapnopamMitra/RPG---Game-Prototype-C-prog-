@@ -1,0 +1,75 @@
+&##B#&@@@@&@&@&&&&&&&&&#&&#####&&&&&#&&&&&&@@@&#&&&&##&&&&##&&##&&&@@&@&@@&&&&&&&&@@@&&####&&#&&&&&&
+&&&#&&&&&&@@&&&##&&##&#&&#####&&#&##&&&&&&&&&&&##&&&&&&&&&&&&@@&&&&&&&&&&&&&&&&&&&&&&&&#####&&&&&@@@
+#####&#B#&&&&#&&&&&&&&&&#####&&#&&&&&&&&&&&&&&@@@&&@&&&&&&&&&&&&&&&&&&&&&&&&@@@&@@&&&&&@@@&&&&&&&&@@
+&#BBGGPBB#&#&&&&&&&&####&##BBB##&&&&&&&&&&&&&@&&@@@@@@@&&&&&&&&&&###&&&#&#&&&&&&@@@&&&&&&&&&&&&&&&@@
+###BBBPPGBBB&&&&#&&&####&##BBBB#&#&&&&&&&&&&#&###&&#&&@@@@@@&#B#####&&@@&#&&####&#&&&&&&&&&&&@@@@@@@
+&#BB#B&###&&@&&#&&&#####&&&&&&&&#&&&&&&&&&#&&&&#####&&&&&#####&&&@&&&&&&&&&&#&#&#&&&&#&&&&&###&@@&@@
+&&#####BB###&&##&&##&#&&#&&&&&##&@@@&&&&&&&@@&###&&B##BB#&&&@&&&&&&####&&&#&&####&&&&&&&&&&&&&&&&&&&
+&&#&&&#BBBPGGGB&&###&#&#&&&&##&&&&&&&&&&&@@@@@######BB###&@@@&####&&&&&&&&&&@&&&&&@@&&@@@&@@&@@@&&&&
+&##&&#GB&#BPGGB##&&&&##&&&&##&#####&&&&&&&&&&&&######&###B#&&########&&&&&&&&@@@@@@@@@&&&&&&#&&&&&&&
+##&&##&&##BGGB##&&&&&&&&&##&#&&##B#&&##&&&######BBBB#BB#&B##&#B#&#&#&&&&&&&&&&&&&#&&&&&&&&&&&&###&&&
+#&##&@&&&&#&####&&######&#&&#&#BB#B########BBB&##BBGB#&&&#&##&&########&&##&&&&&&&@&&&&&&&&&&###BB#&
+&&&&@&&&&&&&##&&&&&#BB#&&@@&&&&###BB##BB##B##BG#############B#&#####&&&&#####&&&&####&&&#B#&&&&&&@&@
+&&&##&&&####B###BBGGB&&&&&&@&&#B##&&###&###&&#GB#B#BB####BGB###BBB#&&&&&#&&&#&&&&###&#&&###&&&&&&&&&
+&&&&#&&&###&&&##BGGG##B&@&##B&#B#&##&&#####BBGGGBBBB##########&&##&&&&&&&@&&&&&&&&&&&&&###&&&&&&&&&&
+&@&&&&&&&&&&@&&&&&#GPG#&BB#BBB###BB#B#####B#BPPGBBB#####BBB#######&&###&&&######&###BBB#########&&&&
+&&&&#&&&&#&###&####BPJYGBB#BBBB#BBB#&#BBB#BGPPGGGBBBGGGGBBB#BBBBB############BB###BBBBGB###BBB######
+#&&&#&&###&####BBBBBG5YY5BBB####BB##BBBBBGBBPPGGGGB#####&&&#BGG######BBGBBB##########GGG#B###B######
+########&&&######B#BBBGYJG##B#&&#GBGGBGGGBBGPPGGB&##&&&####BBBBB#B#BBGBB#B######BB##B##BB####&&###&&
+##########&#####BBBBB#BGYJPBGB##BGGGGGGBGGGPPPPPGGGGBBBGGBBGGGGGGGB#BBBBBBBB####GGGGGG#&&&BBBBB##BBB
+########B#####BBBBBBGB&&BP5P5YP##GPPGGG##BGPGGGGGPGPPPGBBGPPBGGBBBBPGGBGGGBBBBGG5PBBBBBBB#BBBBBBBBGG
+#B##B#BBB###BB####BB###BBBB55YPB#BGPGGGP5PPPPPGGP5PPPPPGGGGGGGBBGPG5P5PPGGBGGGGGG##BGGGGGGGGGGB##B#B
+#######B##BGB&@&##B#B#BBBGGPYY5GPGBGPPP5555555YP5555PGP5PP5PPPGBGPP555555PGB######&&&BGGGGGGBB#&&&#B
+#######BBB#&&&#BBBBGGBBBPPBPYPBGPPGGG55YY5YYYJYYYJY55555P5YYY5YPP5JYYPPPPBGBBBBBGBBB#BGGGB###BB#####
+B#####B##&&#BBB#BGGPPPGPPPP55BGPPP5Y5G#BPYJ7?J??JJYJJJJJJJ5YYJJ??J?JYP555PPPGPPPP5PGGBGGGGGBB#B#####
+B####B####BBBBBBPPPPPPPPPGBPYYYPPYYYPGY?J?!77777!7!~~!!!~!~~!!7?YJPGGYYYJYY5GBP55PGPPPGGB####BBBB#&#
+###BB###BBGGGGGGGPPPGPPPPGBGP5PY55P5YJ7!!~~~^~~^^^^^~~~~~77!?J?JJ?7!77???JJ5PPP5PPGGGGPPGGGBBBBGBB##
+B####BBBBGPPPPGGGPPGPGGGGP5PPP5JYY?!!!7JJ?7???????J??7JJ?JYJ77^~!!7?J?Y5PP5J?JY5GB#BBBBBBBGGGBBGBBBB
+#&##BBBGGBPPPGBBBBBBBBBPYY5GPYJ???7~!7!!!!77777!~!77!!!!777?!!!!?J77J7?YYYJYYJYYY5GB#BGB#BBBB####BBB
+#&BBBBGBGPPGB##BBB####PY5P5YJJ77!!?JYY555PPP5PP5Y77!~~^~^!?Y5J?7!77??J7!??J555YY55JY5PPPGGPPGGGBB###
+&#BGBBGPGB##########B5YY55JYJ777J5PGBBB####BBBBBGP5J??7?!:::^::~~~!!!!?!777?JJ??JJJY55P5PPPPGGGGGGBB
+#BB##GPB&&&&&#&####G5Y55YY5JJJ5GGGGGPPGB##BBBBBBBGGP5Y?77~^:.. ..:^:^~!!!?77???JYJYY5PP5555PPPPGGGGG
+BGGBGG&&&&&&&&&###G5555Y5Y?Y5PPP55YY5PPPGPGGGGGGGGGPP5YJ?J7!!^:..:~~^^^~!7?YPY?JJJJYYY5PPP55PPGBBBBG
+BGPG#&&&&&&&&&&&&G55YJYPYJ55555YJJ5P55YJJ?JJJYPPPPGGP555YJ?7!!~^:...:~!~~77JY5YYYYYYY5555PPPPPGGGBBB
+#GB&&&&&&&&&&&&&B55YJYPJ5GYYY55YJ5PG5YJ?7!!!!!7JP555P55Y5PP57!~~^:^..:^!!~!7??J55YYY5YY5Y55PPGPPPPPG
+G#@&&&&&&&&&&&&&5PY?YPYY&G??J5YJJYPG5YJ7!~^^^^~^?PYYYYYY5PB557!!~~^~^:^^77!7?JJJ55YYY5Y5555PPGBPPPGG
+&@&&&&&&&&&&&&&PPY?5PYY##Y775YJ?JYBBG5J7~:.::^~~!P5YYJJJ?J555Y?7?J???!~!!7J?JYYY5PP5PPP55PPGGGBBGGBB
+@@&&&&&&&&&&&&B5Y?5PY?B##?:75J?7?JPP5YJ7^.:..::^^YP5YJJ5Y5555PG5PY?7Y77J5PYYGYYGBBPB#BBBBBGGPPPGBBBB
+@@@@&&&@@&&&&#P5JGGG55##B7.?5?!::7??7!~^:^!..:~~~J5J7!!7?JJ5PG5YYGG55555BBPGBGPG###B##&&####GGGBB###
+@@@@@&&@@@&&&#PJYGPP?G###?:J5J!^^7YY5Y?!!~~!7YYYYY5J7~~^^~!?P#P?~5G55P5YY5JJJ55PGGGBGB&&BBBB##BBGB&#
+&@&@&&&&@&&&&BY?GGPYY&&##?:7J?7JJ~~~~~~~!7YGPYY55P5Y?!~^^:~!YB5J^~J5J??7?Y?YYYY55PPB#GB#GGGPBB#GGB#B
+&&&&&&&&&&&&&PJ7PPPJGBBGPY7!!!!!7!!!7?JJPGG5J!~JPPP5J!~~^^~7?5JJ!:~?Y55JJJYJY5Y5PY5G#PPPGPPGGGBGGGBB
+@@@@@&&&&&&&#5??PP5?GGGPP555PGYYYY55PPPPGGPY7. ~YPP5J7!!!~^7J7???^.7PPJYYY5Y55YGGPPPGPPPGGGGGGGGGGGB
+&&&&&&&&&&&&BY?7PP5?G#BBBBGGB&G55YYYYYJJJJJJ77J7JY5YJ?!!7~77777!!7^:~!7?J555GP5PGBGPPGGPGGGGGGGGGGGG
+&&&&&&&&&&&&GJJ7GGP?GBBBGGGGG#BYJ?77!~~^^^^^~JP!!!!7J?7?7!??7!:. .^^~J5Y5YP555PPPGBGGPBPBBBBGBGGGGGG
+&&&&&&&&&&&&Y!J!PP5JB#BGGGBGG##P55YJ??7!!~~~~!!~^^~~!7!?55YJ?!:..:~!JPGGGBBGPPB#G5PBGPBBB##BGBBBGBGG
+@&&&&&&&&&&&Y!7!5P5YP#BBBB#BB##5Y555YYYJJ??777!JJY55PGPPGP5YJ?7!7?JYYGB#BBBBBBBBBBBBGGB#&####BB#BBBG
+&&&&&&&&&&&G7~!~Y55Y5BBBGBBBB##55555555YYYJJJ?J?5#BBBGBPBBPP5PPY5PGGPPGGGBBBBBBB###B##B############G
+@&&&&&&&&&&G?J~^YGGP5GY77Y5PGBBPP5555555YYYYJJ?J?Y##BBGP5555555555PGBGPGGGGBB#####B###B&&##&#&&####G
+&&&&&&&&&&&&5!~^5GPPYY~  ~?YPGP555555555YYYYYYJJY??GGGGGP555555555Y5PPGGGGGBBBBBB####B#&&########&#B
+&&&&&&&&&&&GY!~^5GP5J?~  ^!J5P5YYYY5YYYYYYYYYYYYJYJ?5GGGGP55YJY55YY5555PGGPGGGGGGGBBB########B######
+&&&&&&&&&##&Y!!^YGP5Y?~. ^7J5PJJJJJJJJJJJJJYYJJJJJYYJJ55YYJJJ?JYJJJJJYY5PPPPPGPGPGGBBBBB#B######B###
+&&&&&&&&&&&&5J~^7GP5YJ??J??J5Y???777?????????JJJJJJYYJJ5YYYYYJ7~^^^~7JYYYY5PPPPGGGGBBBBBBBBBBB#B###B
+&&&&&&&&&&&&G!:^~5P55YJP#PJJJ7!7!!!!!!!!7777????JJJJJYYJY5PPY?J~^~!7??JJYYY5PGGGGBBBBB#B####BBGBGBB#
+@@&#&&&&&&&&B?~7!JYYJJ?P&G777!~!~^~~~~!!!77777????JJJJ5YJ5BGGG5YYYY5P5P5PPGGGBGGGGBBBBBBBBB##BBBGGGG
+@@&&&&&&&&&&#J~7?7?7777Y&B7?J?777~~~!!!!!!!77777???JJJJ55YYGGGG?JJJ?JY5PPPGPGGGGBBBBBBBBB#######BBGB
+@@@&&&&&&&&&#P7?YJJJY555&#BBGJ???~~~~~!!!!!!77777???JJJJ55YY5GJ7J7!7J5PGGGGGGGBBGBBBBBBB######BBBBB#
+@@@&&&&&&&&&&G?JP55PGGBBBBBG?~~!!^^~~~~~!!!!!7777???JJJJJY5YY55YPGPPPPGBBBBBBBBBBBBBBBBBBBB#########
+@@&&&&&&&&&&#BJYPYYP5YYY??JJ~^^!!^^^~~~~!!!7!777???JJJJYYYYP555GBPPGBBBBB#BBB#######BB#####&&&&&&&&&
+@@@&@@&&&&&&#GYYJYYYY5PP55YJ^^~??^~~!!!!!777777???JJJJYYYYYYP555GP5PPBBB######&###########&&&&&&&&&&
+@@@@@@@@@@&&BG55PG&&&&#BPYJ?~!!J?!!!7777777????J?JJJYYYYYYYY5P555PGG5YG########&################&&&&
+@@@@&##BGP5JJJPGGPPPP5?77?Y7!77YJ!77?77??????JJJJJYYYYYYY55555GP5PPGGGB#&&####&&&&&&#########&&##&#&
+@@&#BBBGGBGBGPPBGGPYYYJJJY5?7??5J77?J?????JJYYYYYYY5555555PP5PPPGPPPPGBB###&&&&&&&&&#&&&&&&&&&&&&&&&
+@@@@@@@@@@@@&G##G###BGP5PG577JJ5J?JJYYYJJYYY5555555555PPPPPPPPPPGBGGPGBBB#&&&&&&&&&&&&&&&&&&&&&&&&&&
+#&@@@@&@@&#BBB&##B#&#GPPGGY?JJYGYJYYYY55555555555PPPPPPPPPPPGGGGGG#BGGGB#&&&&##&&&&&&&&&&&&&&&&&&&&&
+&&@&&&&&&&BPPPBG#&&&&#GPPGYJ555G55YY5555555PPPPPPPPPGGGGGGGGGGGGGGB#BBGGB##&&&#&@&&&&&&&&&&&&&&&&&&&
+BBGPPGPP#&#BBGBB##&#G5PG#B5Y555B5555PPPPPPPPPGGGGGGGGGGGGGBBBBBBGGBB##BBBB#&#&&&&&&&&@&&&&&&&&&&&&&&
+PP555PGGB#B&&##@&&#BBPPGBGYY55PBP55PPGGGGGGGGGGBGGGGGBGGBBBBBGBBBBBBB##BBBB#&&&&&&&&&&&&&&&&&&&&&&&&
+PGPPG&@@@&&@@@&@&#&&&&#&#PYPPGG#GPPPGGGGGGBBBBBBBBBBBBBBBBBBBBBBB#BBBB#&###BB&&@&&&&&@@@@@@&@@@&&&@&
+GPGG#&&&&&&@@@&@@@@&#&@&#GPGGGG#GPGGGBBBBBBBBBBBBBBBBBBBB#B#############&#####&&&&&&&@&&&&@&@@&&&@@@
+GPPGGGPPPP#&@@&@@#BBB##PGPPGBBB#BGGGGBBBBBBBBB#BBB#######################&#####&&@&&&&BG&@@@@@&&&&@&
+GGB#BP5GGGGGB&@&#BBGBGBBBGGGBBB&BBBBBBBBBB################################&&&&&&&&&&@@&&&@@@@@@@@@@@
+BGBBBGGPGGGG#&&&###BB###BGBBBB#&BBBBB##B#############################&&#&&#&&&&&&#&&@@@@@@@@@@@@@@@@
+BBBBBGBBBB##&##&&&B##B#&BB##BB#&#B##############&&&&&&&&&&#########&&&&&#&&&&&&&&&&&&@@@@@&&@@@@@@@@
+B##B#B##GGBB###&#BB###&&B######&##################&&#&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&@@@@@@@@@@@@@@
+&###&&&&BGB#B#######&&&#####&##&#########&&######&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&@@@@@@@@@@@@@
